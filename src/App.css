@@ -1,0 +1,42 @@
+.dark{
+  background-color: rgb(35, 36, 34);
+  color: rgb(250, 69, 69)
+}
+.light{
+  background-color: rgb(235, 221, 209);
+  color: rgb(0, 0, 0);
+}
+.card{
+display:inline-flex;
+/* flex-wrap: wrap; */
+width:280px;
+border:3px solid  rgb(118, 174, 248);
+font-size: 20px;
+font-weight: 600;
+/* color:black; */
+
+}
+.footer{
+  /* background-color: black; */
+  /* color: white; */
+  /* height: 50px; */
+width: 100%;
+  position: absolute;
+  bottom: 0;        
+ }
+ .comp{
+
+/* background-color:rgb(104, 126, 247); */
+border:1px;
+border-radius: 10px;
+box-shadow: 3px;
+background-color: #1b91df;
+color:rgb(2, 0, 0)
+ }
+ .btnS{
+
+  border: 1%;
+  border-radius: 10px;
+  box-shadow: 3px;
+  background-color: #1b91df;
+ }
